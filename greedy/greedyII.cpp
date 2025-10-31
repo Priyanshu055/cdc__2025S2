@@ -7,6 +7,7 @@ int ArrayPartition(int arr[],int n){
         sum+=arr[i];
     }
     return sum;
+    
 }
 int main(){
     int n;
